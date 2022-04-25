@@ -3,8 +3,11 @@
 ## My journey to build a music recommender system
 
 
-1) [Spotify] # Spotify Analytics Dashboard
 
+# Spotify Analytics Dashboard
+
+
+[Spotify.ipynb] 
 AIM
 * To create an analytics dashboard to visualize my Spotify usage
 
