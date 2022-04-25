@@ -5,6 +5,8 @@
 
 Step 1
 
+[Link to notebook](https://github.com/ashioyajotham/Spotify/blob/main/Spotify.ipynb)
+
 # Spotify Analytics Dashboard
 
 AIM
